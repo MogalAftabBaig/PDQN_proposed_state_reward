@@ -1,5 +1,5 @@
 # P-DQN-Proposed_state_reward
-This repo consists all the files related to PDQN proposed reward and state
+This repo consists all the files related to P-DQN proposed reward and state
 # Theory
 This is a traffic signal controller based on P-DQN.
 P-DQN-Paramterized Deep Q Network - Family of model free, hybrid( Has Q network for discret action - value based and Parameter network for continuous action - policy based) deep reinforcement learning algorithms.
