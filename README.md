@@ -1,8 +1,8 @@
-# DDQN-Proposed_state_reward
-This repo consists all the files related to DDQN proposed reward and state
+# P-DQN-Proposed_state_reward
+This repo consists all the files related to PDQN proposed reward and state
 # Theory
 This is a traffic signal controller based on P-DQN.
-DDQN-Paramterized Deep Q Network - Family of model free, hybrid( Has Q network for discret action - value based and Parameter network for continuous action - policy based) deep reinforcement learning algorithms.
+P-DQN-Paramterized Deep Q Network - Family of model free, hybrid( Has Q network for discret action - value based and Parameter network for continuous action - policy based) deep reinforcement learning algorithms.
 # Environment
 A 2X2 grid with 4 intersections and 32 lanes. Each edge has 2 incoming lanes and 2 outgoing lanes. The leftmost incoming lane is to turn left only. The right most lane is to turn right and go straight as well.
 # State Definition
